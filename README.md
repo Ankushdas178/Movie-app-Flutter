@@ -1,2 +1,2 @@
 # Movie-app-Flutter
-A movie app created hands-on at Flutter Pull 2022.
+A flutter movie app created hands-on using clean architecture at Flutter Pull 2022.
